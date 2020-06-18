@@ -1,0 +1,17 @@
+.platformList {
+    list-style: none;
+}
+.platformListItems {
+    background-color: darkgrey;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+    margin: 5px 15px;
+}
+.platformListItems:hover {
+    background-color: gray;
+    transition: .4s;
+}

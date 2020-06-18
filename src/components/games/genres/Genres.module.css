@@ -1,0 +1,17 @@
+.genresList {
+    list-style: none;
+}
+.genresListItems {
+    background-color: darkgrey;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 15px;
+    display: inline-block;
+
+}
+.genresListItems:hover {
+    background-color: gray;
+}

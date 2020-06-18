@@ -1,0 +1,31 @@
+.header {
+  background-color: #001f3e;
+  height: 100px;
+  margin-bottom: 30px;
+}
+.navbar {
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.nav-menu-item {
+  margin-right: 20px;
+  color: #fff;
+
+  &:hover {
+    color: yellow;
+  }
+}
+
+#basic-navbar-nav {
+  margin-left: 110px;
+}
+
+.navbar_link {
+  color: white;
+  padding: 10px;
+}
+.navbar_link:hover {
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}

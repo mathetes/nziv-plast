@@ -1,0 +1,17 @@
+
+.navbar {
+    text-transform: uppercase;
+    background-color: #27423D;
+}
+.navbar_link {
+    color: white;
+    padding: 10px;
+}
+.navbar_link:hover {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.gamePad {
+    color:#C77F65;
+}
